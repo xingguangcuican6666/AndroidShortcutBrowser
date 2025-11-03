@@ -1,17 +1,11 @@
-// Top-level build file
-buildscript {
-    repositories {
-        google()
-    mavenCentral()
-    }
-    dependencies {
-    classpath 'com.android.tools.build:gradle:3.5.4'
-    }
+
+plugins {
+    id 'com.android.application' version '8.4.0' apply false
 }
 
 allprojects {
     repositories {
         google()
-    mavenCentral()
+        mavenCentral()
     }
 }
