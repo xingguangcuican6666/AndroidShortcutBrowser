@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">快捷浏览器</string>
+    <string name="input_hint">请输入网址</string>
+    <string name="install">安装</string>
+</resources>
